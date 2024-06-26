@@ -1,0 +1,20 @@
+{
+  "name": "aqsa_project_currency-converter",
+  "version": "1.0.2",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aqsa Shakeel",
+  "license": "ISC",
+  "description": "currency converter project",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
